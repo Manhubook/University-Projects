@@ -1,0 +1,24 @@
+//------------------------------------------------------------
+/** Skaito, analizuoja ir raðo á skirtingus failus.
+@param fv - duomenø failo vardas 
+@param fvr - rezultatø failo vardas 
+@param nr - ilgiausios eilutës numeris  */
+static void Spausdinti(string fv,  string fvr,  int nr)
+{
+string[] lines = File.ReadAllLines(fv, Encoding.GetEncoding(1257));
+int nreil = 0;
+using (var fr = File.CreateText(fvr))
+{
+foreach(string line in lines)
+{
+if (nr != nreil)
+{
+fr.WriteLine /*//*/ (line);
+}
+nreil++;
+}
+}
+}
+//------------------------------------------------------------
+//------------------------------------------------------------
+

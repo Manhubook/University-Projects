@@ -1,0 +1,9 @@
+C:\Users\Mindaugas\Desktop\P5 Sav 2\P5 Sav 2\bin\Debug\P5 Sav 2.exe.config
+C:\Users\Mindaugas\Desktop\P5 Sav 2\P5 Sav 2\bin\Debug\P5 Sav 2.exe
+C:\Users\Mindaugas\Desktop\P5 Sav 2\P5 Sav 2\bin\Debug\P5 Sav 2.pdb
+C:\Users\Mindaugas\Desktop\P5 Sav 2\P5 Sav 2\obj\Debug\P5 Sav 2.csprojResolveAssemblyReference.cache
+C:\Users\Mindaugas\Desktop\P5 Sav 2\P5 Sav 2\obj\Debug\P5 Sav 2.exe
+C:\Users\Mindaugas\Desktop\P5 Sav 2\P5 Sav 2\obj\Debug\P5 Sav 2.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P5 Tekstas\P5 Savarankiski darbai\P5 Sav 2\P5 Sav 2\bin\Debug\P5 Sav 2.exe.config
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P5 Tekstas\P5 Savarankiski darbai\P5 Sav 2\P5 Sav 2\obj\Debug\P5 Sav 2.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P5 Tekstas\P5 Savarankiski darbai\P5 Sav 2\P5 Sav 2\obj\Debug\P5 Sav 2.pdb

@@ -1,0 +1,6 @@
+D:\Programing\c#\Projects\Lab4-Tekstas\Sav2\bin\Debug\Sav2.exe.config
+D:\Programing\c#\Projects\Lab4-Tekstas\Sav2\bin\Debug\Sav2.exe
+D:\Programing\c#\Projects\Lab4-Tekstas\Sav2\bin\Debug\Sav2.pdb
+D:\Programing\c#\Projects\Lab4-Tekstas\Sav2\obj\Debug\Sav2.csprojResolveAssemblyReference.cache
+D:\Programing\c#\Projects\Lab4-Tekstas\Sav2\obj\Debug\Sav2.exe
+D:\Programing\c#\Projects\Lab4-Tekstas\Sav2\obj\Debug\Sav2.pdb

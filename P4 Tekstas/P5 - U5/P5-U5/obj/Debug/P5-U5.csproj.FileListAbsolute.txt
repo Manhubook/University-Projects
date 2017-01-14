@@ -1,0 +1,6 @@
+C:\Users\Mindaugas\Desktop\P5-U5\P5-U5\bin\Debug\P5-U5.exe.config
+C:\Users\Mindaugas\Desktop\P5-U5\P5-U5\bin\Debug\P5-U5.exe
+C:\Users\Mindaugas\Desktop\P5-U5\P5-U5\bin\Debug\P5-U5.pdb
+C:\Users\Mindaugas\Desktop\P5-U5\P5-U5\obj\Debug\P5-U5.csprojResolveAssemblyReference.cache
+C:\Users\Mindaugas\Desktop\P5-U5\P5-U5\obj\Debug\P5-U5.exe
+C:\Users\Mindaugas\Desktop\P5-U5\P5-U5\obj\Debug\P5-U5.pdb

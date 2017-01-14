@@ -1,0 +1,2 @@
+﻿ISBN, Vejo vardas, Stephan, knyga, obuolys, 2014/2, 518
+ISBN,         Ziedu valdovas, Patric, techNologija, obuoliukas, 2010/3, 1040

@@ -1,0 +1,55 @@
+C:\Users\Mantas\Desktop\Darbai\visual studio 2012\1 pamoka\P.2\Labaratorinis.1\Automobiliu parkas\bin\Debug\Automobiliu parkas.exe
+C:\Users\Mantas\Desktop\Darbai\visual studio 2012\1 pamoka\P.2\Labaratorinis.1\Automobiliu parkas\bin\Debug\Automobiliu parkas.pdb
+C:\Users\Mantas\Desktop\Darbai\visual studio 2012\1 pamoka\P.2\Labaratorinis.1\Automobiliu parkas\obj\Debug\Automobiliu parkas.csprojResolveAssemblyReference.cache
+C:\Users\Mantas\Desktop\Darbai\visual studio 2012\1 pamoka\P.2\Labaratorinis.1\Automobiliu parkas\obj\Debug\Automobiliu parkas.exe
+C:\Users\Mantas\Desktop\Darbai\visual studio 2012\1 pamoka\P.2\Labaratorinis.1\Automobiliu parkas\obj\Debug\Automobiliu parkas.pdb
+C:\Users\Mantas\Desktop\Darbai\visual studio 2012\Paskaitos\P.2\Labaratorinis.1\Automobiliu parkas\obj\Debug\Automobiliu parkas.exe
+C:\Users\Mantas\Desktop\Darbai\visual studio 2012\Paskaitos\P.2\Labaratorinis.1\Automobiliu parkas\obj\Debug\Automobiliu parkas.pdb
+C:\Users\Mantas\Desktop\Darbai\visual studio 2012\Paskaitos\P.2\Labaratorinis.1\Automobiliu parkas\obj\Debug\Automobiliu parkas.csprojResolveAssemblyReference.cache
+C:\Users\Mantas\Desktop\Darbai\visual studio 2012\Paskaitos\P.2\Labaratorinis.1\Automobiliu parkas\bin\Debug\Automobiliu parkas.exe
+C:\Users\Mantas\Desktop\Darbai\visual studio 2012\Paskaitos\P.2\Labaratorinis.1\Automobiliu parkas\bin\Debug\Automobiliu parkas.pdb
+D:\Darbai\visual studio 2012\Paskaitos\P.2\Labaratorinis.1\Automobiliu parkas\obj\Debug\Automobiliu parkas.exe
+D:\Darbai\visual studio 2012\Paskaitos\P.2\Labaratorinis.1\Automobiliu parkas\obj\Debug\Automobiliu parkas.pdb
+D:\Darbai\visual studio 2012\Paskaitos\P.2\Labaratorinis.1\Automobiliu parkas\bin\Debug\Automobiliu parkas.exe
+D:\Darbai\visual studio 2012\Paskaitos\P.2\Labaratorinis.1\Automobiliu parkas\bin\Debug\Automobiliu parkas.pdb
+D:\Darbai\visual studio 2012\Paskaitos\P.2\Labaratorinis.1\Automobiliu parkas\obj\Debug\Automobiliu parkas.csprojResolveAssemblyReference.cache
+F:\Darbai\visual studio 2012\Paskaitos\P.2\Labaratorinis.1\Automobiliu parkas\obj\Debug\Automobiliu parkas.exe
+F:\Darbai\visual studio 2012\Paskaitos\P.2\Labaratorinis.1\Automobiliu parkas\obj\Debug\Automobiliu parkas.pdb
+F:\Darbai\visual studio 2012\Paskaitos\P.2\Labaratorinis.1\Automobiliu parkas\obj\Debug\Automobiliu parkas.csprojResolveAssemblyReference.cache
+F:\Darbai\visual studio 2012\Paskaitos\P.2\Labaratorinis.1\Automobiliu parkas\bin\Debug\Automobiliu parkas.exe
+F:\Darbai\visual studio 2012\Paskaitos\P.2\Labaratorinis.1\Automobiliu parkas\bin\Debug\Automobiliu parkas.pdb
+C:\Users\Mindaugas\Desktop\USB Darbai\visual studio 2012\Laborai\Labaratorinis.1\Automobiliu parkas\obj\Debug\Automobiliu parkas.exe
+C:\Users\Mindaugas\Desktop\USB Darbai\visual studio 2012\Laborai\Labaratorinis.1\Automobiliu parkas\obj\Debug\Automobiliu parkas.pdb
+C:\Users\Mindaugas\Desktop\USB Darbai\visual studio 2012\Laborai\Labaratorinis.1\Automobiliu parkas\bin\Debug\Automobiliu parkas.exe
+C:\Users\Mindaugas\Desktop\USB Darbai\visual studio 2012\Laborai\Labaratorinis.1\Automobiliu parkas\bin\Debug\Automobiliu parkas.pdb
+C:\Users\Mindaugas\Desktop\USB Darbai\visual studio 2012\Laborai\Labaratorinis.1\Automobiliu parkas\obj\Debug\Automobiliu parkas.csprojResolveAssemblyReference.cache
+C:\Users\Mindaugas\Desktop\Labaratorinis.1\Automobiliu parkas\obj\Debug\Automobiliu parkas.exe
+C:\Users\Mindaugas\Desktop\Labaratorinis.1\Automobiliu parkas\obj\Debug\Automobiliu parkas.pdb
+C:\Users\Mindaugas\Desktop\Labaratorinis.1\Automobiliu parkas\obj\Debug\Automobiliu parkas.csprojResolveAssemblyReference.cache
+C:\Users\Mindaugas\Desktop\Labaratorinis.1\Automobiliu parkas\bin\Debug\Automobiliu parkas.exe
+C:\Users\Mindaugas\Desktop\Labaratorinis.1\Automobiliu parkas\bin\Debug\Automobiliu parkas.pdb
+C:\Users\Mindaugas\Desktop\USB Darbai\visual studio 2012\Labaratorinis.1\Automobiliu parkas\obj\Debug\Automobiliu parkas.exe
+C:\Users\Mindaugas\Desktop\USB Darbai\visual studio 2012\Labaratorinis.1\Automobiliu parkas\obj\Debug\Automobiliu parkas.pdb
+C:\Users\Mindaugas\Desktop\USB Darbai\visual studio 2012\Labaratorinis.1\Automobiliu parkas\bin\Debug\Automobiliu parkas.exe
+C:\Users\Mindaugas\Desktop\USB Darbai\visual studio 2012\Labaratorinis.1\Automobiliu parkas\bin\Debug\Automobiliu parkas.pdb
+C:\Users\Mindaugas\Desktop\USB Darbai\visual studio 2012\Labaratorinis.1\Automobiliu parkas\obj\Debug\Automobiliu parkas.csprojResolveAssemblyReference.cache
+C:\Users\Mindaugas\Desktop\P4 Mano\Automobiliu parkas\obj\Debug\Automobiliu parkas.exe
+C:\Users\Mindaugas\Desktop\P4 Mano\Automobiliu parkas\obj\Debug\Automobiliu parkas.pdb
+C:\Users\Mindaugas\Desktop\P4 Mano\Automobiliu parkas\bin\Debug\Automobiliu parkas.exe
+C:\Users\Mindaugas\Desktop\P4 Mano\Automobiliu parkas\bin\Debug\Automobiliu parkas.pdb
+C:\Users\Mindaugas\Desktop\P4 Mano\Automobiliu parkas\obj\Debug\Automobiliu parkas.csprojResolveAssemblyReference.cache
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P3 Mano Paveldejimai\Automobiliu parkas\obj\Debug\Automobiliu parkas.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P3 Mano Paveldejimai\Automobiliu parkas\obj\Debug\Automobiliu parkas.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P3 Mano Paveldejimai\Automobiliu parkas\bin\Debug\Automobiliu parkas.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P3 Mano Paveldejimai\Automobiliu parkas\bin\Debug\Automobiliu parkas.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P3 Mano Paveldejimai\Automobiliu parkas\obj\Debug\Automobiliu parkas.csprojResolveAssemblyReference.cache
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\6 Labaratorinis darbas\Automobiliu parkas\obj\Debug\Automobiliu parkas.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\6 Labaratorinis darbas\Automobiliu parkas\obj\Debug\Automobiliu parkas.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\6 Labaratorinis darbas\Automobiliu parkas\bin\Debug\Automobiliu parkas.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\6 Labaratorinis darbas\Automobiliu parkas\bin\Debug\Automobiliu parkas.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\6 Labaratorinis darbas\Automobiliu parkas\obj\Debug\Automobiliu parkas.csprojResolveAssemblyReference.cache
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P5 Polimorfizmas\Automobiliu parkas\obj\Debug\Automobiliu parkas.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P5 Polimorfizmas\Automobiliu parkas\obj\Debug\Automobiliu parkas.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P5 Polimorfizmas\Automobiliu parkas\bin\Debug\Automobiliu parkas.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P5 Polimorfizmas\Automobiliu parkas\bin\Debug\Automobiliu parkas.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P5 Polimorfizmas\Automobiliu parkas\obj\Debug\Automobiliu parkas.csprojResolveAssemblyReference.cache

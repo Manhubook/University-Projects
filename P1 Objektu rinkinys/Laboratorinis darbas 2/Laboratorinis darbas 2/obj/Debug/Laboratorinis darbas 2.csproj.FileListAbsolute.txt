@@ -1,0 +1,6 @@
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P2 Objektu rinkinys\Laboratorinis darbas 2\Laboratorinis darbas 2\bin\Debug\Laboratorinis darbas 2.exe.config
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P2 Objektu rinkinys\Laboratorinis darbas 2\Laboratorinis darbas 2\bin\Debug\Laboratorinis darbas 2.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P2 Objektu rinkinys\Laboratorinis darbas 2\Laboratorinis darbas 2\bin\Debug\Laboratorinis darbas 2.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P2 Objektu rinkinys\Laboratorinis darbas 2\Laboratorinis darbas 2\obj\Debug\Laboratorinis darbas 2.csprojResolveAssemblyReference.cache
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P2 Objektu rinkinys\Laboratorinis darbas 2\Laboratorinis darbas 2\obj\Debug\Laboratorinis darbas 2.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P2 Objektu rinkinys\Laboratorinis darbas 2\Laboratorinis darbas 2\obj\Debug\Laboratorinis darbas 2.pdb

@@ -1,0 +1,11 @@
+Transporto priemonių, kurių techninės apžiūros galiojimo laikas baigsis per artimiausius 3 mėnesius. 
+
+Kaunas
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1 Valstybinis numeris: KLR563 | Gamintojas: VW      | Modelis: Golf    | Pagaminimo metai ir menuo: 2010-05-01 | Technines galiojimo data: 2017-02-01 | Kuras: Dyzelinas | 100km/h:  5,8 |
+
+Vilnius
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1 Valstybinis numeris: JBC926 | Gamintojas: SEAT    | Modelis: IBIZA   | Pagaminimo metai ir menuo: 2002-05-01 | Technines galiojimo data: 2017-02-01 | Kuras: Benzinas  | 100km/h:    8 |
+2 Valstybinis numeris: UUU555 | Gamintojas: BMW     | Modelis: X6      | Pagaminimo metai ir menuo: 2015-05-01 | Technines galiojimo data: 2017-02-01 | Kuras: Dyzelinas | 100km/h:    7 | Sedimu vietu skc: 30 |
+

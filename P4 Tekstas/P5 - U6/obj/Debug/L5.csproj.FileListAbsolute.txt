@@ -1,0 +1,12 @@
+C:\Users\Vaidotas\Desktop\P5\L5\L5\bin\Debug\L5.exe.config
+C:\Users\Vaidotas\Desktop\P5\L5\L5\bin\Debug\L5.exe
+C:\Users\Vaidotas\Desktop\P5\L5\L5\bin\Debug\L5.pdb
+C:\Users\Vaidotas\Desktop\P5\L5\L5\obj\Debug\L5.csprojResolveAssemblyReference.cache
+C:\Users\Vaidotas\Desktop\P5\L5\L5\obj\Debug\L5.exe
+C:\Users\Vaidotas\Desktop\P5\L5\L5\obj\Debug\L5.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\L5\bin\Debug\L5.exe.config
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\L5\obj\Debug\L5.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\L5\obj\Debug\L5.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\L5\bin\Debug\L5.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\L5\bin\Debug\L5.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\L5\obj\Debug\L5.csprojResolveAssemblyReference.cache

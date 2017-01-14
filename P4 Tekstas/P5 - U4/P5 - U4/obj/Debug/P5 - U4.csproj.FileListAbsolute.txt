@@ -1,0 +1,12 @@
+C:\Users\Mindaugas\Desktop\P5 - U4\P5 - U4\bin\Debug\P5 - U4.exe.config
+C:\Users\Mindaugas\Desktop\P5 - U4\P5 - U4\bin\Debug\P5 - U4.exe
+C:\Users\Mindaugas\Desktop\P5 - U4\P5 - U4\bin\Debug\P5 - U4.pdb
+C:\Users\Mindaugas\Desktop\P5 - U4\P5 - U4\obj\Debug\P5 - U4.csprojResolveAssemblyReference.cache
+C:\Users\Mindaugas\Desktop\P5 - U4\P5 - U4\obj\Debug\P5 - U4.exe
+C:\Users\Mindaugas\Desktop\P5 - U4\P5 - U4\obj\Debug\P5 - U4.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P5 Tekstas\P5 - U4\P5 - U4\bin\Debug\P5 - U4.exe.config
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P5 Tekstas\P5 - U4\P5 - U4\obj\Debug\P5 - U4.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P5 Tekstas\P5 - U4\P5 - U4\obj\Debug\P5 - U4.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P5 Tekstas\P5 - U4\P5 - U4\bin\Debug\P5 - U4.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P5 Tekstas\P5 - U4\P5 - U4\bin\Debug\P5 - U4.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P5 Tekstas\P5 - U4\P5 - U4\obj\Debug\P5 - U4.csprojResolveAssemblyReference.cache

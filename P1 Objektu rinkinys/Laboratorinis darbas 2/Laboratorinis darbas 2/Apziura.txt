@@ -1,0 +1,5 @@
+Automobiliu sąrašąs, kuriu yra pasibaigęs techninės apžiūros galiojimas,arba liko mažiau nei mėnuo 
+
+KLO569 | MAZDA    | 626        | 2016-06-01 | 2016-09-01 | Dyzelinas | 7
+HOK247 | Citroen  | Quattro    | 2006-09-01 | 2016-05-01 | Benzinas  | 8,5
+DRN650 | Renault  | Laguna     | 2003-07-01 | 2016-11-01 | Dyzelinas | 10

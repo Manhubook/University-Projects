@@ -1,0 +1,24 @@
+C:\Users\Mindaugas\Desktop\P4-U2\Lygiavimas\bin\Debug\Lygiavimas.exe.config
+C:\Users\Mindaugas\Desktop\P4-U2\Lygiavimas\bin\Debug\Lygiavimas.exe
+C:\Users\Mindaugas\Desktop\P4-U2\Lygiavimas\bin\Debug\Lygiavimas.pdb
+C:\Users\Mindaugas\Desktop\P4-U2\Lygiavimas\obj\Debug\Lygiavimas.csprojResolveAssemblyReference.cache
+C:\Users\Mindaugas\Desktop\P4-U2\Lygiavimas\obj\Debug\Lygiavimas.exe
+C:\Users\Mindaugas\Desktop\P4-U2\Lygiavimas\obj\Debug\Lygiavimas.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P4-U2\Lygiavimas\bin\Debug\Lygiavimas.exe.config
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P4-U2\Lygiavimas\obj\Debug\Lygiavimas.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P4-U2\Lygiavimas\obj\Debug\Lygiavimas.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P4-U2\Lygiavimas\bin\Debug\Lygiavimas.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P4-U2\Lygiavimas\bin\Debug\Lygiavimas.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P4-U2\Lygiavimas\obj\Debug\Lygiavimas.csprojResolveAssemblyReference.cache
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P5 Tekstas\P5 - U2\Lygiavimas\bin\Debug\Lygiavimas.exe.config
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P5 Tekstas\P5 - U2\Lygiavimas\obj\Debug\Lygiavimas.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P5 Tekstas\P5 - U2\Lygiavimas\obj\Debug\Lygiavimas.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P5 Tekstas\P5 - U2\Lygiavimas\bin\Debug\Lygiavimas.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P5 Tekstas\P5 - U2\Lygiavimas\bin\Debug\Lygiavimas.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P5 Tekstas\P5 - U2\Lygiavimas\obj\Debug\Lygiavimas.csprojResolveAssemblyReference.cache
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P4 Tekstas\P5 - U2\Lygiavimas\bin\Debug\Lygiavimas.exe.config
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P4 Tekstas\P5 - U2\Lygiavimas\obj\Debug\Lygiavimas.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P4 Tekstas\P5 - U2\Lygiavimas\obj\Debug\Lygiavimas.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P4 Tekstas\P5 - U2\Lygiavimas\bin\Debug\Lygiavimas.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P4 Tekstas\P5 - U2\Lygiavimas\bin\Debug\Lygiavimas.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P4 Tekstas\P5 - U2\Lygiavimas\obj\Debug\Lygiavimas.csprojResolveAssemblyReference.cache

@@ -1,0 +1,69 @@
+Pradiniai duomenys: 
+
+Kaunas
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1 Valstybinis numeris: KLR563 | Gamintojas: VW      | Modelis: Golf    | Pagaminimo metai ir menuo: 2010-05-01 | Technines galiojimo data: 2017-02-01 | Kuras: Dyzelinas | 100km/h:  5,8 |
+2 Valstybinis numeris: KLR563 | Gamintojas: VW      | Modelis: Golf    | Pagaminimo metai ir menuo: 2010-05-01 | Technines galiojimo data: 2017-09-01 | Kuras: Dyzelinas | 100km/h:  5,8 | Talpa: 1000 |
+3 Valstybinis numeris: KLO569 | Gamintojas: Mazda   | Modelis: 626     | Pagaminimo metai ir menuo: 2016-06-01 | Technines galiojimo data: 2016-09-01 | Kuras: Dyzelinas | 100km/h:    7 | Sedimu vietu skc: 28 |
+4 Valstybinis numeris: TRP588 | Gamintojas: Audi    | Modelis: V90     | Pagaminimo metai ir menuo: 2008-08-01 | Technines galiojimo data: 2017-10-01 | Kuras: Dyzelinas | 100km/h:  6,9 |
+5 Valstybinis numeris: HOK247 | Gamintojas: Citroen | Modelis: Quattro | Pagaminimo metai ir menuo: 2006-09-01 | Technines galiojimo data: 2016-05-01 | Kuras: Benzinas  | 100km/h:  8,5 |
+6 Valstybinis numeris: HOK247 | Gamintojas: Citroen | Modelis: Quattro | Pagaminimo metai ir menuo: 2006-09-01 | Technines galiojimo data: 2016-05-01 | Kuras: Benzinas  | 100km/h:  8,5 | Talpa: 2000 |
+7 Valstybinis numeris: HOK236 | Gamintojas: VW      | Modelis: V80     | Pagaminimo metai ir menuo: 2003-06-01 | Technines galiojimo data: 2018-10-01 | Kuras: Dyzelinas | 100km/h:    9 |
+8 Valstybinis numeris: GBT739 | Gamintojas: VW      | Modelis: 5Series | Pagaminimo metai ir menuo: 2004-01-01 | Technines galiojimo data: 2018-10-01 | Kuras: Dyzelinas | 100km/h:  9.2 |
+9 Valstybinis numeris: DRN650 | Gamintojas: BMW     | Modelis: Laguna  | Pagaminimo metai ir menuo: 2003-07-01 | Technines galiojimo data: 2016-11-20 | Kuras: Dyzelinas | 100km/h:   10 | Sedimu vietu skc: 28 |
+
+Vilnius
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1 Valstybinis numeris: BCS158 | Gamintojas: Ford    | Modelis: Focus   | Pagaminimo metai ir menuo: 2017-09-01 | Technines galiojimo data: 2015-05-01 | Kuras: Benzinas  | 100km/h:    8 | Talpa: 1500 |
+2 Valstybinis numeris: HKO258 | Gamintojas: Audi    | Modelis: A3Sline | Pagaminimo metai ir menuo: 2006-09-01 | Technines galiojimo data: 2017-05-01 | Kuras: Benzinas  | 100km/h:  8,5 | Talpa: 1000 |
+3 Valstybinis numeris: CKD126 | Gamintojas: Audi    | Modelis: A8      | Pagaminimo metai ir menuo: 2014-10-01 | Technines galiojimo data: 2005-06-01 | Kuras: Benzinas  | 100km/h:   12 |
+4 Valstybinis numeris: HOK236 | Gamintojas: VOLVO   | Modelis: V80     | Pagaminimo metai ir menuo: 2003-06-01 | Technines galiojimo data: 2016-09-01 | Kuras: Dyzelinas | 100km/h:    9 |
+5 Valstybinis numeris: JBC926 | Gamintojas: SEAT    | Modelis: IBIZA   | Pagaminimo metai ir menuo: 2002-05-01 | Technines galiojimo data: 2017-02-01 | Kuras: Benzinas  | 100km/h:    8 |
+6 Valstybinis numeris: UUU555 | Gamintojas: BMW     | Modelis: X6      | Pagaminimo metai ir menuo: 2015-05-01 | Technines galiojimo data: 2017-02-01 | Kuras: Dyzelinas | 100km/h:    7 | Sedimu vietu skc: 30 |
+7 Valstybinis numeris: HOK236 | Gamintojas: Ford    | Modelis: V80     | Pagaminimo metai ir menuo: 2018-06-01 | Technines galiojimo data: 2018-10-01 | Kuras: Dyzelinas | 100km/h:    9 | Sedimu vietu skc: 28 |
+8 Valstybinis numeris: KLR563 | Gamintojas: Mazda   | Modelis: RX7     | Pagaminimo metai ir menuo: 2000-10-01 | Technines galiojimo data: 2017-09-01 | Kuras: Dyzelinas | 100km/h:  5,8 |
+
+Filalas, kuriame yra senesnes transporto priemones: Kaunas metai: 2007 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1 Valstybinis numeris: KLR563 | Gamintojas: VW      | Modelis: Golf    | Pagaminimo metai ir menuo: 2010-05-01 | Technines galiojimo data: 2017-02-01 | Kuras: Dyzelinas | 100km/h:  5,8 |
+2 Valstybinis numeris: KLR563 | Gamintojas: VW      | Modelis: Golf    | Pagaminimo metai ir menuo: 2010-05-01 | Technines galiojimo data: 2017-09-01 | Kuras: Dyzelinas | 100km/h:  5,8 | Talpa: 1000 |
+3 Valstybinis numeris: KLO569 | Gamintojas: Mazda   | Modelis: 626     | Pagaminimo metai ir menuo: 2016-06-01 | Technines galiojimo data: 2016-09-01 | Kuras: Dyzelinas | 100km/h:    7 | Sedimu vietu skc: 28 |
+4 Valstybinis numeris: TRP588 | Gamintojas: Audi    | Modelis: V90     | Pagaminimo metai ir menuo: 2008-08-01 | Technines galiojimo data: 2017-10-01 | Kuras: Dyzelinas | 100km/h:  6,9 |
+5 Valstybinis numeris: HOK247 | Gamintojas: Citroen | Modelis: Quattro | Pagaminimo metai ir menuo: 2006-09-01 | Technines galiojimo data: 2016-05-01 | Kuras: Benzinas  | 100km/h:  8,5 |
+6 Valstybinis numeris: HOK247 | Gamintojas: Citroen | Modelis: Quattro | Pagaminimo metai ir menuo: 2006-09-01 | Technines galiojimo data: 2016-05-01 | Kuras: Benzinas  | 100km/h:  8,5 | Talpa: 2000 |
+7 Valstybinis numeris: HOK236 | Gamintojas: VW      | Modelis: V80     | Pagaminimo metai ir menuo: 2003-06-01 | Technines galiojimo data: 2018-10-01 | Kuras: Dyzelinas | 100km/h:    9 |
+8 Valstybinis numeris: GBT739 | Gamintojas: VW      | Modelis: 5Series | Pagaminimo metai ir menuo: 2004-01-01 | Technines galiojimo data: 2018-10-01 | Kuras: Dyzelinas | 100km/h:  9.2 |
+9 Valstybinis numeris: DRN650 | Gamintojas: BMW     | Modelis: Laguna  | Pagaminimo metai ir menuo: 2003-07-01 | Technines galiojimo data: 2016-11-20 | Kuras: Dyzelinas | 100km/h:   10 | Sedimu vietu skc: 28 |
+
+Gamintojo transporto priemonių daugiausia VW 4
+
+
+Isrikiuotas filalas: 
+
+Kaunas
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1 Valstybinis numeris: KLO569 | Gamintojas: Mazda   | Modelis: 626     | Pagaminimo metai ir menuo: 2016-06-01 | Technines galiojimo data: 2016-09-01 | Kuras: Dyzelinas | 100km/h:    7 | Sedimu vietu skc: 28 |
+2 Valstybinis numeris: GBT739 | Gamintojas: VW      | Modelis: 5Series | Pagaminimo metai ir menuo: 2004-01-01 | Technines galiojimo data: 2018-10-01 | Kuras: Dyzelinas | 100km/h:  9.2 |
+3 Valstybinis numeris: KLR563 | Gamintojas: VW      | Modelis: Golf    | Pagaminimo metai ir menuo: 2010-05-01 | Technines galiojimo data: 2017-09-01 | Kuras: Dyzelinas | 100km/h:  5,8 | Talpa: 1000 |
+4 Valstybinis numeris: TRP588 | Gamintojas: Audi    | Modelis: V90     | Pagaminimo metai ir menuo: 2008-08-01 | Technines galiojimo data: 2017-10-01 | Kuras: Dyzelinas | 100km/h:  6,9 |
+5 Valstybinis numeris: DRN650 | Gamintojas: BMW     | Modelis: Laguna  | Pagaminimo metai ir menuo: 2003-07-01 | Technines galiojimo data: 2016-11-20 | Kuras: Dyzelinas | 100km/h:   10 | Sedimu vietu skc: 28 |
+6 Valstybinis numeris: HOK247 | Gamintojas: Citroen | Modelis: Quattro | Pagaminimo metai ir menuo: 2006-09-01 | Technines galiojimo data: 2016-05-01 | Kuras: Benzinas  | 100km/h:  8,5 |
+7 Valstybinis numeris: KLR563 | Gamintojas: VW      | Modelis: Golf    | Pagaminimo metai ir menuo: 2010-05-01 | Technines galiojimo data: 2017-02-01 | Kuras: Dyzelinas | 100km/h:  5,8 |
+8 Valstybinis numeris: HOK247 | Gamintojas: Citroen | Modelis: Quattro | Pagaminimo metai ir menuo: 2006-09-01 | Technines galiojimo data: 2016-05-01 | Kuras: Benzinas  | 100km/h:  8,5 | Talpa: 2000 |
+9 Valstybinis numeris: HOK236 | Gamintojas: VW      | Modelis: V80     | Pagaminimo metai ir menuo: 2003-06-01 | Technines galiojimo data: 2018-10-01 | Kuras: Dyzelinas | 100km/h:    9 |
+
+Vilnius
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1 Valstybinis numeris: HKO258 | Gamintojas: Audi    | Modelis: A3Sline | Pagaminimo metai ir menuo: 2006-09-01 | Technines galiojimo data: 2017-05-01 | Kuras: Benzinas  | 100km/h:  8,5 | Talpa: 1000 |
+2 Valstybinis numeris: CKD126 | Gamintojas: Audi    | Modelis: A8      | Pagaminimo metai ir menuo: 2014-10-01 | Technines galiojimo data: 2005-06-01 | Kuras: Benzinas  | 100km/h:   12 |
+3 Valstybinis numeris: BCS158 | Gamintojas: Ford    | Modelis: Focus   | Pagaminimo metai ir menuo: 2017-09-01 | Technines galiojimo data: 2015-05-01 | Kuras: Benzinas  | 100km/h:    8 | Talpa: 1500 |
+4 Valstybinis numeris: JBC926 | Gamintojas: SEAT    | Modelis: IBIZA   | Pagaminimo metai ir menuo: 2002-05-01 | Technines galiojimo data: 2017-02-01 | Kuras: Benzinas  | 100km/h:    8 |
+5 Valstybinis numeris: HOK236 | Gamintojas: Ford    | Modelis: V80     | Pagaminimo metai ir menuo: 2018-06-01 | Technines galiojimo data: 2018-10-01 | Kuras: Dyzelinas | 100km/h:    9 | Sedimu vietu skc: 28 |
+6 Valstybinis numeris: UUU555 | Gamintojas: BMW     | Modelis: X6      | Pagaminimo metai ir menuo: 2015-05-01 | Technines galiojimo data: 2017-02-01 | Kuras: Dyzelinas | 100km/h:    7 | Sedimu vietu skc: 30 |
+7 Valstybinis numeris: KLR563 | Gamintojas: Mazda   | Modelis: RX7     | Pagaminimo metai ir menuo: 2000-10-01 | Technines galiojimo data: 2017-09-01 | Kuras: Dyzelinas | 100km/h:  5,8 |
+8 Valstybinis numeris: HOK236 | Gamintojas: VOLVO   | Modelis: V80     | Pagaminimo metai ir menuo: 2003-06-01 | Technines galiojimo data: 2016-09-01 | Kuras: Dyzelinas | 100km/h:    9 |
+

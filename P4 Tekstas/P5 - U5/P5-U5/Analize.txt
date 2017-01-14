@@ -1,0 +1,19 @@
+žodžiai, kurie yra tik faile Knyga1.txt, bet nėra faile Knyga2.txt, skaičius 10 ir sąrašąs:
+
+Kai
+kitą
+dieną
+Vienos
+bibliotekoje
+pamačiau
+vyšnines
+vertėjo
+kelnes
+ir
+Ilgiausias sakinys pirmajame faile:  Kai kitą dieną Vienos bibliotekoje pamačiau vyšnines vertėjo kelnes ir geltonąjį jo šalį, besivelkantį prieky traukiamo lagamino, pilno išverstų knygų, supratau, kad kruopščiai planuotas literatūros vakaras neįvyks.
+Jos ilgis: 215
+Vieta 0
+
+Ilgiausias sakinys antrajame faile:  Vis dėlto neįsivaizduoju, kaip, pavyzdžiui, reikėtų išversti žemaitiškai nuo vaikystės pažįstamą sakinį:„Ratas ant ašies braškėdamas sukosi sunkiai.
+Jos ilgis: 148
+Vieta 0

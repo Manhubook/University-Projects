@@ -1,0 +1,4 @@
+C:\Users\Mantas\Desktop\Darbai\visual studio 2012\1 pamoka\P.2\Labaratorinis.1\Automobiliu parkas\bin\Release\Automobiliu parkas.exe
+C:\Users\Mantas\Desktop\Darbai\visual studio 2012\1 pamoka\P.2\Labaratorinis.1\Automobiliu parkas\bin\Release\Automobiliu parkas.pdb
+C:\Users\Mantas\Desktop\Darbai\visual studio 2012\1 pamoka\P.2\Labaratorinis.1\Automobiliu parkas\obj\Release\Automobiliu parkas.exe
+C:\Users\Mantas\Desktop\Darbai\visual studio 2012\1 pamoka\P.2\Labaratorinis.1\Automobiliu parkas\obj\Release\Automobiliu parkas.pdb

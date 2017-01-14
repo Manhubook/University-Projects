@@ -1,0 +1,15 @@
+void DuomenysInternet(Grybai & grybai)
+{
+	ifstream fd(u2);
+	int ns = 0;
+	bool  yra = true;
+	while(!fd.eof() && yra) { 
+		fd >> pav >> tip;
+		s1.Dėti (pav, tip);
+		if(!fd.eof() && (ns - 1 < Grybai::CMax ) )
+			grybai[ns++] = s1; 
+		 else
+			
+ }
+ fd.close();
+b

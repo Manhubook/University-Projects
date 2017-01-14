@@ -1,0 +1,22 @@
+Surisiuotos transporto priemones 
+
+=======================================================================================================================================================================================
+Valstybinis numeris: GBT739 | Gamintojas: BMW     | Modelis: 5Series |Pagaminimo metai ir menuo: 2004-01-01 | Technines galiojimo data: 2018-10-01 | Kuras: Dyzelinas | 100km/h:  9.2 |
+Valstybinis numeris: KLO569 | Gamintojas: Mazda   | Modelis: 626     | Pagaminimo metai ir menuo: 2016-06-01 | Technines galiojimo data: 2016-09-01 | Kuras: Dyzelinas | 100km/h:    7 | Sedimu vietu skc: 28 |
+Valstybinis numeris: KLR563 | Gamintojas: VW      | Modelis: Golf    |Pagaminimo metai ir menuo: 2000-05-01 | Technines galiojimo data: 2017-03-01 | Kuras: Dyzelinas | 100km/h:  5,8 |
+Valstybinis numeris: TRP588 | Gamintojas: Audi    | Modelis: V90     |Pagaminimo metai ir menuo: 2008-08-01 | Technines galiojimo data: 2017-10-01 | Kuras: Dyzelinas | 100km/h:  6,9 |
+Valstybinis numeris: DRN650 | Gamintojas: BMW     | Modelis: Laguna  | Pagaminimo metai ir menuo: 2003-07-01 | Technines galiojimo data: 2016-11-20 | Kuras: Dyzelinas | 100km/h:   10 | Sedimu vietu skc: 28 |
+Valstybinis numeris: HOK247 | Gamintojas: Citroen | Modelis: Quattro |Pagaminimo metai ir menuo: 2006-09-01 | Technines galiojimo data: 2016-05-01 | Kuras: Benzinas  | 100km/h:  8,5 |
+Valstybinis numeris: HOK236 | Gamintojas: BMW     | Modelis: V80     |Pagaminimo metai ir menuo: 2003-06-01 | Technines galiojimo data: 2018-10-01 | Kuras: Dyzelinas | 100km/h:    9 |
+Valstybinis numeris: KLR563 | Gamintojas: VW      | Modelis: Golf    | Pagaminimo metai ir menuo: 2010-05-01 | Technines galiojimo data: 2017-09-01 | Kuras: Dyzelinas | 100km/h:  5,8 | Talpa: 1000 |
+Valstybinis numeris: HOK247 | Gamintojas: Citroen | Modelis: Quattro | Pagaminimo metai ir menuo: 2006-09-01 | Technines galiojimo data: 2016-05-01 | Kuras: Benzinas  | 100km/h:  8,5 | Talpa: 2000 |
+=======================================================================================================================================================================================
+Valstybinis numeris: HKO258 | Gamintojas: Audi    | Modelis: A3Sline | Pagaminimo metai ir menuo: 2006-09-01 | Technines galiojimo data: 2017-05-01 | Kuras: Benzinas  | 100km/h:  8,5 | Talpa: 1000 |
+Valstybinis numeris: CKD126 | Gamintojas: Audi    | Modelis: A8      |Pagaminimo metai ir menuo: 2014-10-01 | Technines galiojimo data: 2005-06-01 | Kuras: Benzinas  | 100km/h:   12 |
+Valstybinis numeris: BCS158 | Gamintojas: Ford    | Modelis: Focus   | Pagaminimo metai ir menuo: 2017-09-01 | Technines galiojimo data: 2015-05-01 | Kuras: Benzinas  | 100km/h:    8 | Talpa: 1500 |
+Valstybinis numeris: JBC926 | Gamintojas: SEAT    | Modelis: IBIZA   |Pagaminimo metai ir menuo: 2002-05-01 | Technines galiojimo data: 2016-10-01 | Kuras: Benzinas  | 100km/h:    8 |
+Valstybinis numeris: HOK236 | Gamintojas: Ford    | Modelis: V80     | Pagaminimo metai ir menuo: 2018-06-01 | Technines galiojimo data: 2018-10-01 | Kuras: Dyzelinas | 100km/h:    9 | Sedimu vietu skc: 28 |
+Valstybinis numeris: UUU555 | Gamintojas: BMW     | Modelis: X6      | Pagaminimo metai ir menuo: 2015-05-01 | Technines galiojimo data: 2018-05-01 | Kuras: Dyzelinas | 100km/h:    7 | Sedimu vietu skc: 30 |
+Valstybinis numeris: HOK236 | Gamintojas: VOLVO   | Modelis: V80     |Pagaminimo metai ir menuo: 2003-06-01 | Technines galiojimo data: 2016-09-01 | Kuras: Dyzelinas | 100km/h:    9 |
+Valstybinis numeris: KLR563 | Gamintojas: VW      | Modelis: Golf    |Pagaminimo metai ir menuo: 2000-05-01 | Technines galiojimo data: 2017-09-01 | Kuras: Dyzelinas | 100km/h:  5,8 |
+=======================================================================================================================================================================================

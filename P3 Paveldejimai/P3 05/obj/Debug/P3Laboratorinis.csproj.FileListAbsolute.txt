@@ -1,0 +1,12 @@
+C:\Darbai\VISUAL STUDIO\P3Laboratorinis\bin\Debug\P3Laboratorinis.exe.config
+C:\Darbai\VISUAL STUDIO\P3Laboratorinis\bin\Debug\P3Laboratorinis.exe
+C:\Darbai\VISUAL STUDIO\P3Laboratorinis\bin\Debug\P3Laboratorinis.pdb
+C:\Darbai\VISUAL STUDIO\P3Laboratorinis\obj\Debug\P3Laboratorinis.exe
+C:\Darbai\VISUAL STUDIO\P3Laboratorinis\obj\Debug\P3Laboratorinis.pdb
+C:\Darbai\VISUAL STUDIO\P3Laboratorinis\obj\Debug\P3Laboratorinis.csprojResolveAssemblyReference.cache
+C:\Users\Mindaugas\Desktop\P3Laboratorinis\bin\Debug\P3Laboratorinis.exe.config
+C:\Users\Mindaugas\Desktop\P3Laboratorinis\obj\Debug\P3Laboratorinis.exe
+C:\Users\Mindaugas\Desktop\P3Laboratorinis\obj\Debug\P3Laboratorinis.pdb
+C:\Users\Mindaugas\Desktop\P3Laboratorinis\bin\Debug\P3Laboratorinis.exe
+C:\Users\Mindaugas\Desktop\P3Laboratorinis\bin\Debug\P3Laboratorinis.pdb
+C:\Users\Mindaugas\Desktop\P3Laboratorinis\obj\Debug\P3Laboratorinis.csprojResolveAssemblyReference.cache

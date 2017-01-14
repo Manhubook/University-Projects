@@ -1,0 +1,6 @@
+D:\Programing\c#\Projects\Lab4-Tekstas\Lab4-Tekstas\bin\Debug\Lab4-Tekstas.exe.config
+D:\Programing\c#\Projects\Lab4-Tekstas\Lab4-Tekstas\bin\Debug\Lab4-Tekstas.exe
+D:\Programing\c#\Projects\Lab4-Tekstas\Lab4-Tekstas\bin\Debug\Lab4-Tekstas.pdb
+D:\Programing\c#\Projects\Lab4-Tekstas\Lab4-Tekstas\obj\Debug\Lab4-Tekstas.csprojResolveAssemblyReference.cache
+D:\Programing\c#\Projects\Lab4-Tekstas\Lab4-Tekstas\obj\Debug\Lab4-Tekstas.exe
+D:\Programing\c#\Projects\Lab4-Tekstas\Lab4-Tekstas\obj\Debug\Lab4-Tekstas.pdb

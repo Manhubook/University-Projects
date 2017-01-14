@@ -1,0 +1,6 @@
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P1 Objektu rinkinys\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe.config
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P1 Objektu rinkinys\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P1 Objektu rinkinys\Biblioteka\Biblioteka\bin\Debug\Biblioteka.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P1 Objektu rinkinys\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csprojResolveAssemblyReference.cache
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P1 Objektu rinkinys\Biblioteka\Biblioteka\obj\Debug\Biblioteka.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\Mano darbai\P1 Objektu rinkinys\Biblioteka\Biblioteka\obj\Debug\Biblioteka.pdb

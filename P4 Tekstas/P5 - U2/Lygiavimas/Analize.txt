@@ -1,0 +1,41 @@
+Pradiniai duomenys: 
+
+Tu, kuri turi buti nutapyta, aprašyta.
+Ar bet kur kitur, kur eksponuojama žmonės.
+algyti algyti
+
+Zodžiai, kurie prasideda ir pasibaigia balse: 
+
+Zodziu kiekis: 4 
+
+1. aprašyta            1
+2. eksponuojama        1
+3. algyti              2
+
+Ilgiausiu zodziu sarasas: 
+
+Ilgiausiu zodziu kiekis: 10 
+
+1. eksponuojama    1
+2. aprašyta        1
+3. nutapyta        1
+4. algyti          2
+5. žmonės          1
+6. kitur           1
+7. buti            1
+8. turi            1
+9. kuri            1
+
+Trumpiausiu zodziu sarasas: 
+
+Trumpiausiu zodziu kiekis: 10 
+
+1. kuri            1
+2. turi            1
+3. buti            1
+4. kitur           1
+5. žmonės          1
+6. algyti          2
+7. nutapyta        1
+8. aprašyta        1
+9. eksponuojama    1

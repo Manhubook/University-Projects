@@ -1,0 +1,28 @@
+Dazniausiai pasikartojantys unikalos zodziai pirmai knygai. (U.Z.K - is viso unikaliu zodziu)
+| Zodis U.Z.K 91   | Kart  |
++------------------+-------+
+| šeimininkė       | 6     |
+| kad              | 5     |
+| kubilo           | 3     |
+| žirnius          | 3     |
+| visos            | 3     |
+| vištos           | 3     |
+| nei              | 3     |
+| rytą             | 2     |
+| kur              | 2     |
+| dalges           | 2     |
++------------------+-------+
+Dazniausiai pasikartojantys zodziai tarp abieju knygu. (U.Z.K - is viso unikaliu zodziu)
+| Zodis U.Z.K 4   | Kart  |
++------------------+-------+
+| kūčių            | 4     |
+| kūčios           | 2     |
+| prie             | 2     |
+| šeimininkės      | 2     |
+|                  | 0     |
+|                  | 0     |
+|                  | 0     |
+|                  | 0     |
+|                  | 0     |
+|                  | 0     |
++------------------+-------+

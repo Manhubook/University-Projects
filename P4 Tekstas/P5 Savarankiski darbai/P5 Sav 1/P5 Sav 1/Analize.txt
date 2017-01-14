@@ -1,0 +1,7 @@
+//		string pav, tip;
+//		GrybasInfo s1;
+	bool /* gvgfhgjhjhjhkjhkhjk */ yra = true;
+	while(!fd.eof() && yra) { // kol yra duomenų ir jie telpa į masyvą
+			grybai[ns++] = s1; // įrašo naują elementą
+			/*yra = false;*/
+*/b

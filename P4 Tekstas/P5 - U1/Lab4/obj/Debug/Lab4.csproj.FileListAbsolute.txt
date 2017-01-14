@@ -1,0 +1,18 @@
+D:\Programing\c#\Projects\Lab4-Tekstas\Lab4\bin\Debug\Lab4.exe.config
+D:\Programing\c#\Projects\Lab4-Tekstas\Lab4\bin\Debug\Lab4.exe
+D:\Programing\c#\Projects\Lab4-Tekstas\Lab4\bin\Debug\Lab4.pdb
+D:\Programing\c#\Projects\Lab4-Tekstas\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+D:\Programing\c#\Projects\Lab4-Tekstas\Lab4\obj\Debug\Lab4.exe
+D:\Programing\c#\Projects\Lab4-Tekstas\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Mindaugas\Desktop\Lab4-Tekstas 01\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Mindaugas\Desktop\Lab4-Tekstas 01\Lab4\obj\Debug\Lab4.exe
+C:\Users\Mindaugas\Desktop\Lab4-Tekstas 01\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Mindaugas\Desktop\Lab4-Tekstas 01\Lab4\bin\Debug\Lab4.exe
+C:\Users\Mindaugas\Desktop\Lab4-Tekstas 01\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Mindaugas\Desktop\Lab4-Tekstas 01\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P4 - U1\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P4 - U1\Lab4\obj\Debug\Lab4.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P4 - U1\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P5 Tekstas\P5 - U1\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P5 Tekstas\P5 - U1\Lab4\obj\Debug\Lab4.exe
+C:\Users\Mindaugas\Desktop\Studijos\visual studio 2012\P5 Tekstas\P5 - U1\Lab4\obj\Debug\Lab4.pdb

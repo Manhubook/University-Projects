@@ -1,0 +1,4 @@
+Zodžiai, kurie prasideda ir pasibaigia balse: 
+Zodziu kiekis: 2
+auja
+ati

@@ -1,0 +1,8 @@
+//------------------------------------------------------------
+/** Skaito, analizuoja ir rašo į skirtingus failus.
+@param fv - duomenų failo vardas 
+@param fvr - rezultatų failo vardas 
+@param nr - ilgiausios eilutės numeris  */
+fr.WriteLine /*//*/ (line);
+//------------------------------------------------------------
+//------------------------------------------------------------

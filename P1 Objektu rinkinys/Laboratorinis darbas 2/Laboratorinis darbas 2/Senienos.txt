@@ -1,0 +1,6 @@
+Automobilių sąrašas, senesnių nei 10 metų 
+
+HOK247 | Citroen  | Quattro    | 2006-09-01 | 2016-05-01 | Benzinas  | 8,5
+HOK236 | BMW      | V80        | 2003-06-01 | 2018-10-01 | Dyzelinas | 9
+GBT739 | BMW      | 5Series    | 2004-01-01 | 2018-10-01 | Dyzelinas | 9,2
+DRN650 | Renault  | Laguna     | 2003-07-01 | 2016-11-01 | Dyzelinas | 10
